@@ -1,5 +1,5 @@
 # Sodor Island 3D 2009 (January 2012)
-![](https://github.com/Zeldaboy14/ZPW_2022/blob/main/docs/img/logo/zpw_logo_github.png?raw=true)
+![](https://github.com/Zeldaboy14/SI3D-2009/blob/main/docs/img/banners/header.jpg?raw=true)
 
 A (nearly) complete archive of SI3D 2009 as it stood in January 2012. Features content archives too
 that I added in thanks to some anon's who assisted in file hunting. This WILL NOT host anything for
