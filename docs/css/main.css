@@ -14,7 +14,7 @@ address { font-style:normal;}
 /*  #misc
 ----------------------------------------------- */
 
-.body { background: #1F1F1F url(http://web.archive.org/web/20130108193317im_/http://u.jimdo.com/www30/o/sb6189cd81ba685b1/img/idaf894d8e39eae70/1298241414/orig/image.jpg) repeat scroll top left; }
+.body { background: #1F1F1F url(../img/general/image.jpg) repeat scroll top left; }
 
 
 /*
@@ -243,24 +243,3 @@ div.datetime.dt-style6
 div.datetime.dt-style7.dt-alignment-left { border-right: 1px solid #0099EE !important; }
 div.datetime.dt-style7.dt-alignment-right { border-left: 1px solid #0099EE !important; }
 div.datetime.dt-style8 p.day { border-right: 1px solid #0099EE !important; }
-/*
-     FILE ARCHIVED ON 19:33:17 Jan 08, 2013 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 02:42:36 Dec 13, 2022.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 137.562
-  exclusion.robots: 0.083
-  exclusion.robots.policy: 0.074
-  cdx.remote: 0.069
-  esindex: 0.009
-  LoadShardBlock: 61.292 (3)
-  PetaboxLoader3.datanode: 73.074 (4)
-  CDXLines.iter: 22.977 (3)
-  load_resource: 162.576
-  PetaboxLoader3.resolve: 31.281
-*/
